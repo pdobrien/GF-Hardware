@@ -1,5 +1,7 @@
 This site is intended to serve as a repository for knowledge learned about the hardware and firmware for Glowforge's Basic and Pro model CNC lasers.  
   
+The intended use of this information is to allow owners of the product to investigate the innerworkings of the device they own.
+  
 Head to the [WiKi](https://github.com/ScottW514/GF-Hardware/wiki) for the good stuff.
   
 # IMPORTANT NOTICE!  
